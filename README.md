@@ -86,6 +86,7 @@ Airflow is commonly used to process data, but has the opinion that tasks should 
 Airflow is not a streaming solution, but it is often used to process real-time data, pulling data off streams in batches.
 
 ## Principles
+## By Mudassir Alam
 
 - **Dynamic**: Airflow pipelines are configuration as code (Python), allowing for dynamic pipeline generation. This allows for writing code that instantiates pipelines dynamically.
 - **Extensible**: Easily define your own operators, executors and extend the library so that it fits the level of abstraction that suits your environment.
